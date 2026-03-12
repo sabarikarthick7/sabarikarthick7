@@ -1,34 +1,21 @@
 <h1 align="center">Hi 👋, I'm Sabari Karthick</h1>
 
-<table>
-<tr>
-<td width="200">
+<p align="left">
+<img src="https://github.com/sabarikarthick7/sabarikarthick7/blob/main/profile.jpeg" width="170">
+</p>
 
-<img src="https://github.com/sabarikarthick7/sabarikarthick7/blob/main/profile.jpeg" width="180">
-
-</td>
-
-<td>
-
-🚀 **Aspiring DevOps & Cloud Engineer**
-
+🚀 **Aspiring DevOps & Cloud Engineer**  
 📍 Chennai, India  
 
-🎓 B.Tech Aerospace Engineering student (Class of 2027)  
-transitioning into **DevOps & Cloud Engineering**
+---
 
-💡 Hands-on experience in:
+## 👨‍💻 About Me
 
-- Containerization  
-- CI/CD Automation  
-- Cloud Infrastructure  
-- Linux Administration  
+🎓 B.Tech Aerospace Engineering student (Class of 2027) actively transitioning into **DevOps & Cloud Engineering**.
 
-⚙️ Passionate about building **automated systems that deploy applications from source code to production.**
+💡 I have hands-on experience in **containerization, CI/CD automation, cloud infrastructure, and Linux administration.**
 
-</td>
-</tr>
-</table>
+⚙️ I enjoy designing **automated systems that deploy applications from source code to production with minimal manual intervention.**
 
 ---
 
@@ -75,14 +62,14 @@ transitioning into **DevOps & Cloud Engineering**
 
 ## 🎬 Netflix DevOps CI/CD Pipeline
 
-A production-style DevOps pipeline deploying a Netflix-style application.
+Production-style DevOps pipeline deploying a Netflix-style application.
 
 ✔ Docker containerization  
-✔ Jenkins CI/CD automation  
+✔ Jenkins CI/CD pipeline  
 ✔ Kubernetes deployment  
 ✔ Automated Docker builds  
 
-🔗 Repo  
+🔗 Repository  
 https://github.com/sabarikarthick7/netflix-devops-project
 
 ---
@@ -95,7 +82,7 @@ Distributed Jenkins build infrastructure using remote agents.
 ✔ Secure authentication  
 ✔ Pipeline-as-Code  
 
-🔗 Repo  
+🔗 Repository  
 https://github.com/sabarikarthick7/CodeAlpha_Jenkins_Remoting
 
 ---
@@ -108,7 +95,7 @@ Infrastructure automation using Terraform and GitHub Actions.
 ✔ Automated Terraform deployments  
 ✔ Event-driven pipeline architecture  
 
-🔗 Repo  
+🔗 Repository  
 https://github.com/sabarikarthick7/event-driven-cloud-pipeline
 
 ---
@@ -126,4 +113,3 @@ https://github.com/sabarikarthick7
 
 ---
 
-⭐ If you like my projects, consider giving them a star!
