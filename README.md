@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sabari Karthick</h1>
 
-<p align="center">
-<img src="https://github.com/sabarikarthick7/sabarikarthick7/blob/main/profile.jpeg" width="160" style="border-radius:50%">
-</p>
+<img src="https://github.com/sabarikarthick7/sabarikarthick7/blob/main/profile.jpeg" width="160" align="left">
 
 <h3 align="center">🚀 Aspiring DevOps & Cloud Engineer</h3>
 
