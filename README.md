@@ -1,22 +1,34 @@
 <h1 align="center">Hi 👋, I'm Sabari Karthick</h1>
 
-<img src="https://github.com/sabarikarthick7/sabarikarthick7/blob/main/profile.jpeg" width="160" align="left">
+<table>
+<tr>
+<td width="200">
 
-<h3 align="center">🚀 Aspiring DevOps & Cloud Engineer</h3>
+<img src="https://github.com/sabarikarthick7/sabarikarthick7/blob/main/profile.jpeg" width="180">
 
-<p align="center">
-📍 Chennai, India
-</p>
+</td>
 
----
+<td>
 
-## 👨‍💻 About Me
+🚀 **Aspiring DevOps & Cloud Engineer**
 
-🎓 B.Tech Aerospace Engineering student (Class of 2027) actively transitioning into **DevOps & Cloud Engineering**.
+📍 Chennai, India  
 
-💡 I have hands-on experience in **containerization, CI/CD automation, cloud infrastructure, and Linux administration.**
+🎓 B.Tech Aerospace Engineering student (Class of 2027)  
+transitioning into **DevOps & Cloud Engineering**
 
-⚙️ I enjoy building **automated systems that deploy applications from source code to production with minimal manual intervention.**
+💡 Hands-on experience in:
+
+- Containerization  
+- CI/CD Automation  
+- Cloud Infrastructure  
+- Linux Administration  
+
+⚙️ Passionate about building **automated systems that deploy applications from source code to production.**
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -63,7 +75,7 @@
 
 ## 🎬 Netflix DevOps CI/CD Pipeline
 
-A full DevOps pipeline deploying a Netflix-style application.
+A production-style DevOps pipeline deploying a Netflix-style application.
 
 ✔ Docker containerization  
 ✔ Jenkins CI/CD automation  
@@ -90,11 +102,11 @@ https://github.com/sabarikarthick7/CodeAlpha_Jenkins_Remoting
 
 ## ☁️ Event Driven Cloud Pipeline
 
-Infrastructure automation with Terraform and GitHub Actions.
+Infrastructure automation using Terraform and GitHub Actions.
 
 ✔ Infrastructure as Code  
 ✔ Automated Terraform deployments  
-✔ Event-driven architecture  
+✔ Event-driven pipeline architecture  
 
 🔗 Repo  
 https://github.com/sabarikarthick7/event-driven-cloud-pipeline
@@ -110,7 +122,7 @@ sabarikarthick.it@gmail.com
 https://linkedin.com/in/sabari-karthick-85326730a  
 
 🐙 GitHub  
-https://github.com/sabarikarthick7
+https://github.com/sabarikarthick7  
 
 ---
 
